@@ -7,7 +7,7 @@ Telegram-бот для MSM EduLeague × Sapiens Chess: тест из 10 вопр
 
 ## Демо
 
-![Демо бота](demo/demo.gif)
+[▶ Смотреть демо](https://github.com/pragmaweb/chess-personality-bot/blob/main/demo.gif)
 
 ## Как это работает
 
